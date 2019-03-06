@@ -1,2 +1,2 @@
 # ustube
-Undergraduate Video Sharing Project
+Video Sharing Class Project
